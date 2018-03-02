@@ -1,0 +1,6 @@
+[package]
+name = "fasttextrs"
+version = "0.1.0"
+authors = ["Ken Graham <klgraham@gmail.com>"]
+
+[dependencies]
